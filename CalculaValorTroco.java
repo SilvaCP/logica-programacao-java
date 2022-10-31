@@ -2,6 +2,7 @@ package br.com.cursologica;
 
 import java.util.Scanner;
 
+// Esse algorítmo elabora um troco ao cliente.
 public class CalculaValorTroco {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
