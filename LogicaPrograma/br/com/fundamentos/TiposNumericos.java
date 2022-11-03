@@ -10,7 +10,11 @@ public class TiposNumericos {
 		float numeroFloat = 1.0f;
 		double numeroDouble = 1.0;
 		
+		// Abaixo um exemplo de código para calcular o quadrado de um número.
 		double x = 5.0;
+		double z = x * x;
+		System.out.println("O quadrado de 5.0 é: " + z);
+		
 		
 		
 		
