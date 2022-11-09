@@ -10,7 +10,7 @@ package br.com.fundamentos;
 
 import java.util.Scanner;
 
-public class DescontoFrete {
+public class Exercicio2DescontoFrete {
 public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 	
