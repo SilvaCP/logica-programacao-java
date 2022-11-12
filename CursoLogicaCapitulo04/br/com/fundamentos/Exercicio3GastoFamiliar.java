@@ -13,7 +13,7 @@ import java.util.Scanner;
  * 
  * */
 
-public class GastoFamiliar {
+public class Exercicio3GastoFamiliar {
 public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 	
